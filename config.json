@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "supabaseUrl": "https://iwbcddmtkjypfxrhxizj.supabase.co",
+  "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml3YmNkZG10a2p5cGZ4cmh4aXpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM2NDU5NTcsImV4cCI6MjEwOTIyMTk1N30.FigCq32uB0k4Mrzd2m5NEP8Fe5e8ZUV3hZyl835zEQU",
+  "features": {},
+  "mapStyleUrl": "https://snickmax.github.io/amika-web/map/style.json",
+  "webBaseUrl": "https://snickmax.github.io/amika-web"
+}
